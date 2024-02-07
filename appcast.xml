@@ -5,7 +5,7 @@
         <item>
             <title>1.0.1</title>
             <pubDate>Wed, 07 Feb 2024 11:09:46 +0800</pubDate>
-            <sparkle:version>1</sparkle:version>
+            <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/1.0.1/Ezreal.zip" length="1978725" type="application/octet-stream" sparkle:edSignature="CLRRnp5VMabe+2QV5695cmhnyXBlbAFsDdKZ8NEW0ATPXWQ9MJu7ZWz3xCkuHtyTy3nbgGNrv7V60yo/uvSlAw=="/>
