@@ -8,7 +8,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/loebfly/EzrealForGitLab/Ezreal.zip" length="1978731" type="application/octet-stream" sparkle:edSignature="U+MuVmzuAwF3Mp7b81CY5iRQhRYlWfJZp0DaiOREwhF3990O8k2U3RxUg/yAVC0b13fGIhWoLV1PSIaRHIofAw=="/>
+            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/v1.0.0/Ezreal.zip" length="1978731" type="application/octet-stream" sparkle:edSignature="U+MuVmzuAwF3Mp7b81CY5iRQhRYlWfJZp0DaiOREwhF3990O8k2U3RxUg/yAVC0b13fGIhWoLV1PSIaRHIofAw=="/>
         </item>
     </channel>
 </rss>
