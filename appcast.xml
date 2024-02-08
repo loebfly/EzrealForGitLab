@@ -1,22 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Ezreal</title>
-        <item>
-            <title>1.0.1</title>
-            <pubDate>Wed, 07 Feb 2024 11:09:46 +0800</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/1.0.1/Ezreal.zip" length="1978725" type="application/octet-stream" sparkle:edSignature="CLRRnp5VMabe+2QV5695cmhnyXBlbAFsDdKZ8NEW0ATPXWQ9MJu7ZWz3xCkuHtyTy3nbgGNrv7V60yo/uvSlAw=="/>
-        </item>
-        <item>
+        <title>Ezreal For GitLab</title>
+                <item>
             <title>1.0.0</title>
-            <pubDate>Wed, 07 Feb 2024 10:37:03 +0800</pubDate>
+            <pubDate>Thu, 08 Feb 2024 15:18:39 +0800</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/1.0.0/Ezreal.zip" length="1978731" type="application/octet-stream" sparkle:edSignature="U+MuVmzuAwF3Mp7b81CY5iRQhRYlWfJZp0DaiOREwhF3990O8k2U3RxUg/yAVC0b13fGIhWoLV1PSIaRHIofAw=="/>
+            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/1.0.0/Ezreal.zip" length="1991579" type="application/octet-stream" sparkle:edSignature="RVeP4y5a4BZ/ptWyjUDuNLg4K/TIFkWNMayCMLR4WVOYWeGQUfQsiX072O3vTzImAAu6VIxOxzM6XbJDcKqSAw=="/>
         </item>
     </channel>
 </rss>
