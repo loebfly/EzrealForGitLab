@@ -2,7 +2,18 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Ezreal For GitLab</title>
-                <item>
+        <item>
+            <title>1.0.4</title>
+            <pubDate>Sun, 18 Feb 2024 18:49:01 +0800</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <description>
+               fix: 构建分支切换时可能崩溃问题
+            </description>
+            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/1.0.4/Ezreal.zip" length="2262488" type="application/octet-stream" sparkle:edSignature="S7Tk+AHEqRq3IayopKeS85y4HiPN0kRm1TMVj+kEOF+1TsG509l7dbvDSSSnFxX3uKy753xH1uLTl/deTVacAw=="/>
+        </item>
+        <item>
             <title>1.0.3</title>
             <pubDate>Sun, 18 Feb 2024 18:22:23 +0800</pubDate>
             <sparkle:version>4</sparkle:version>
