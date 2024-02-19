@@ -3,6 +3,17 @@
     <channel>
         <title>Ezreal For GitLab</title>
         <item>
+            <title>1.0.5</title>
+            <pubDate>Mon, 19 Feb 2024 15:46:28 +0800</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <description>
+               feat: 构建历史支持查看构建参数
+            </description>
+            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/1.0.5/Ezreal.zip" length="2281767" type="application/octet-stream" sparkle:edSignature="X0ngh6+dEOFU3VK15hmEzNyOsYZo3JAJQVgnPs+isCOsbYHrgJ1IljVy+/5Xhxuyko1B8hEXWLjIc9WY3FXLDQ=="/>
+        </item>
+        <item>
             <title>1.0.4</title>
             <pubDate>Sun, 18 Feb 2024 18:49:01 +0800</pubDate>
             <sparkle:version>5</sparkle:version>
