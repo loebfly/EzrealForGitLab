@@ -3,12 +3,23 @@
     <channel>
         <title>Ezreal For GitLab</title>
         <item>
+            <title>1.0.7</title>
+            <pubDate>Thu, 22 Feb 2024 14:39:56 +0800</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <description>
+               opt: 调整构建历史页面布局
+            </description>
+            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/1.0.7/Ezreal.zip" length="2190412" type="application/octet-stream" sparkle:edSignature="obkN5JaEuqoZYOUrjSm60rE4KOYWh6zv9gdNtF1IcLZIdYb2Dm8HZy7FnMP8fucI9nmwKeuCAFlH77MhBBGnAA=="/>
+        </item>
+        <item>
             <title>1.0.6</title>
             <pubDate>Mon, 19 Feb 2024 18:10:52 +0800</pubDate>
             <sparkle:version>7</sparkle:version>
             <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-               <description>
+            <description>
                feat: APP图标换新
             </description>
             <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/1.0.6/Ezreal.zip" length="2190360" type="application/octet-stream" sparkle:edSignature="SiT5T6tOBabMcgSqR71PrKWi/8mGp9n/HQOfThrm+IePBMw32fF752dgmZu5SjWEFkajZ/kTk5OsNJGJJcXTAg=="/>
