@@ -11,7 +11,7 @@
             <description>
                feat: 构建分支增加排序，可按名称/提交时间排序
             </description>
-            <enclosure url=https://github.com/loebfly/EzrealForGitLab/releases/download/1.0.10/Ezreal.zip" length="2345115" type="application/octet-stream" sparkle:edSignature="8f/QW0UrL96iKHf+a1DVJgTw1VoCIhmgd2U6XoagPG0TCHOcDVVqm/MWJPA3xjlKIsEh9PF6wr9RKOoU6VG7BQ=="/>
+            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/1.0.10/Ezreal.zip" length="2345115" type="application/octet-stream" sparkle:edSignature="8f/QW0UrL96iKHf+a1DVJgTw1VoCIhmgd2U6XoagPG0TCHOcDVVqm/MWJPA3xjlKIsEh9PF6wr9RKOoU6VG7BQ=="/>
         </item>
         <item>
             <title>1.0.9</title>
