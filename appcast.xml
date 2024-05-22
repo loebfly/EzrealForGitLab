@@ -10,7 +10,7 @@
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
             <description>
                feat: 
-                1. 针对 ModularizationDistribution 进行参数联动，MODULARIZATION_GIT 选择后自动适配分支&打包机
+                1. 针对 ModularizationDistribution 进行参数联动，MODULARIZATION_GIT 选择后自动适配分支以及打包机
                 2. 构建参数输入和选择共存模式，可选值支持搜索
                fix: 组件打包分支参数选择显示不全问题
             </description>
