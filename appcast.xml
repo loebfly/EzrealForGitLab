@@ -3,6 +3,17 @@
     <channel>
         <title>Ezreal For GitLab</title>
         <item>
+            <title>1.0.12</title>
+            <pubDate>Fri, 24 May 2024 16:20:27 +0800</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.0.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+             <description>
+               feat: 流水线构建分支可能显示不全，新增分支搜索功能
+            </description>
+            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/1.0.12/Ezreal.zip" length="2401593" type="application/octet-stream" sparkle:edSignature="5LUb8cW8afQFW/HbMcYuZZJ7DJcPRUDr/AXIqX9iMX6YETJa6TaPPd9qH4m19C90Q+i6hbHTDfz9Z7qt8QRrBw=="/>
+        </item>
+        <item>
             <title>1.0.11</title>
             <pubDate>Wed, 22 May 2024 13:35:10 +0800</pubDate>
             <sparkle:version>12</sparkle:version>
