@@ -3,6 +3,17 @@
     <channel>
         <title>Ezreal For GitLab</title>
         <item>
+            <title>1.0.14</title>
+            <pubDate>Thu, 30 May 2024 17:16:02 +0800</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.0.14</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <description>
+               fix: 添加项目搜索不到的问题
+            </description>
+            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/1.0.14/Ezreal.zip" length="2413215" type="application/octet-stream" sparkle:edSignature="G/+d2GzQU2cqKkCYNs1Wyf+dbJMRuF24yjY81kNyc7zes0B2gjinZ3n36QD9HznQmWAKSittRRvig6hTxLaLBw=="/>
+        </item>
+        <item>
             <title>1.0.13</title>
             <pubDate>Wed, 29 May 2024 16:56:00 +0800</pubDate>
             <sparkle:version>14</sparkle:version>
