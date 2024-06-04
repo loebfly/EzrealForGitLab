@@ -2,16 +2,16 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Ezreal For GitLab</title>
-            <item>
+        <item>
             <title>1.0.15</title>
-            <pubDate>Tue, 04 Jun 2024 16:02:36 +0800</pubDate>
-            <sparkle:version>17</sparkle:version>
+            <pubDate>Tue, 04 Jun 2024 16:44:38 +0800</pubDate>
+            <sparkle:version>18</sparkle:version>
             <sparkle:shortVersionString>1.0.15</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
             <description>
                feat: 新增合并请求，一站式解决MR创建以及合并
             </description>
-            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/1.0.15/Ezreal.zip" length="2660291" type="application/octet-stream" sparkle:edSignature="OF57bkmVZqZTwmzvXZJeXglZLtUDFZb8H/tLRc1vz82xvTzColJMVBhXHhDi748zSymvDImvMfGunvh4RR+pBQ=="/>
+            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/1.0.15/Ezreal.zip" length="2660387" type="application/octet-stream" sparkle:edSignature="MFxk7sbsejoeeNT4nXZTsE9o8VkJ1Yy3KyXo4pBbM7o09uSWtstmBumiT859/3VNDPeL16bbmyeEch8CNXuHCg=="/>
         </item>
         <item>
             <title>1.0.14</title>
