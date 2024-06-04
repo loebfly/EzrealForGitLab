@@ -3,6 +3,17 @@
     <channel>
         <title>Ezreal For GitLab</title>
         <item>
+            <title>1.0.15</title>
+            <pubDate>Tue, 04 Jun 2024 15:39:19 +0800</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>1.0.15</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <description>
+               feat: 新增合并请求，一站式解决MR创建&合并
+            </description>
+            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/1.0.15/Ezreal.zip" length="2660361" type="application/octet-stream" sparkle:edSignature="1WJA8TPNt2aX45RidActJuHz+nJMnPkupGQMdMLyw+Ra61EAtUNoPUnmEKX/uC+UIOrd9zKxo1v/malA4q1jDA=="/>
+        </item>
+        <item>
             <title>1.0.14</title>
             <pubDate>Thu, 30 May 2024 17:20:52 +0800</pubDate>
             <sparkle:version>15</sparkle:version>
