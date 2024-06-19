@@ -4,15 +4,14 @@
         <title>Ezreal For GitLab</title>
         <item>
             <title>2.0.0</title>
-            <pubDate>Wed, 19 Jun 2024 17:24:09 +0800</pubDate>
-            <sparkle:version>27</sparkle:version>
+            <pubDate>Wed, 19 Jun 2024 17:35:16 +0800</pubDate>
+            <sparkle:version>28</sparkle:version>
             <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
             <description>
                 合并请求模块: 补充复制MR功能，以及修复批量创建未主动刷新问题
             </description>
-            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/2.0.0/Ezreal.zip" length="3750757" type="application/octet-stream" sparkle:edSignature="ziIm3jJNdKMXqLPw+VHQE1dXHR3NjLhXfWSm6nLJm6nrJF1wurOsvoc94gY4rVhTyqVI1CgFoujNT2PcLslQAg=="/>
+            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/2.0.0/Ezreal.zip" length="3751630" type="application/octet-stream" sparkle:edSignature="32SQUM6OWkZxjRft7SHkbYQHu+oNCWiKCFkDo4GyW2DM+jrISTVYtUX3ryE1U18z8Xv8MUDlODBXj3hTMt++AQ=="/>
         </item>
-
     </channel>
 </rss>
