@@ -4,14 +4,14 @@
         <title>Ezreal For GitLab</title>
         <item>
             <title>2.0.0</title>
-            <pubDate>Tue, 18 Jun 2024 18:48:23 +0800</pubDate>
-            <sparkle:version>23</sparkle:version>
+            <pubDate>Wed, 19 Jun 2024 10:19:00 +0800</pubDate>
+            <sparkle:version>24</sparkle:version>
             <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
             <description>
-               feat: 代码以及界面全面优化
+               feat: 代码以及界面全面优化,bug 修复
             </description>
-            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/2.0.0/Ezreal.zip" length="3741119" type="application/octet-stream" sparkle:edSignature="aC3YLl1+/Hqm3jNu9I37Ng3rADWNtWrjbdEeu+wwsFFiD0jQVhwP8C4BrcsL2ft326IzGjLJ5O4jvHT9bzbtAw=="/>
+            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/2.0.0/Ezreal.zip" length="3741127" type="application/octet-stream" sparkle:edSignature="Ymz1izpI+bN5wfpysRRk2KjugSTpUxD0e1DkGdTD67130M5ldGiT8qxhyFJNb41zuXhOyXLsK6zb7GJMAxCaAQ=="/>
         </item>
     </channel>
 </rss>
