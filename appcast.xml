@@ -3,6 +3,18 @@
     <channel>
         <title>Ezreal For GitLab</title>
         <item>
+            <title>2.0.1</title>
+            <pubDate>Thu, 08 Aug 2024 15:25:25 +0800</pubDate>
+            <sparkle:version>31</sparkle:version>
+            <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <description>
+                feat: 创建MR的标题新增【Ezreal】前缀
+                fix: MODULARIZATION_GIT的可选值显示不全的问题
+            </description>
+            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/2.0.1/Ezreal.zip" length="3755485" type="application/octet-stream" sparkle:edSignature="Uruun4q+qzkV19FyKzcP8K3BaDCozXqQ5ks3hKUv8kmykqqtjXyGGB2dMI8QvOZBlGEh0KP+gJCcBIo0e6XXBg=="/>
+        </item>
+        <item>
             <title>2.0.0</title>
             <pubDate>Fri, 21 Jun 2024 11:31:15 +0800</pubDate>
             <sparkle:version>30</sparkle:version>
