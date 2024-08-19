@@ -3,6 +3,17 @@
     <channel>
         <title>Ezreal For GitLab</title>
         <item>
+            <title>2.0.3</title>
+            <pubDate>Mon, 19 Aug 2024 15:58:24 +0800</pubDate>
+            <sparkle:version>34</sparkle:version>
+            <sparkle:shortVersionString>2.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <description>
+                fix: 流水线构建参数有部分无法手动输入的问题
+            </description>
+            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/2.0.3/Ezreal.zip" length="3756575" type="application/octet-stream" sparkle:edSignature="iZZgqmSgva0BWs4ZlHTz8ouDo8zV/Bwk+2txu0Mtsjl/zUQBq5go5vVltFIiGZeCzQ8tjvQbsRniyBERkiuKDg=="/>
+        </item>
+        <item>
             <title>2.0.2</title>
             <pubDate>Fri, 16 Aug 2024 13:49:22 +0800</pubDate>
             <sparkle:version>33</sparkle:version>
