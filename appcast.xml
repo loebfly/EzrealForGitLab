@@ -3,6 +3,17 @@
     <channel>
         <title>Ezreal For GitLab</title>
         <item>
+            <title>2.0.4</title>
+            <pubDate>Mon, 30 Sep 2024 15:42:42 +0800</pubDate>
+            <sparkle:version>35</sparkle:version>
+            <sparkle:shortVersionString>2.0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <description>
+                feat: 单个合并请求完成后发送飞书通知
+            </description>
+            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/2.0.4/Ezreal.zip" length="3763334" type="application/octet-stream" sparkle:edSignature="7npQc/hejB84Vm2RZRH4IFPIYvFja+tPbh3sySp8hCeyQpiog5nwjEeyLNH9P63szE3jghfoxfZ3XCufx1BCDQ=="/>
+        </item>
+        <item>
             <title>2.0.3</title>
             <pubDate>Mon, 19 Aug 2024 15:58:24 +0800</pubDate>
             <sparkle:version>34</sparkle:version>
