@@ -9,7 +9,7 @@
             <sparkle:version>37</sparkle:version>
             <sparkle:shortVersionString>2.0.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <description>fix:部分仓库无法添加问题 feat:批量常见MR通过勾选组件的方式</description>
+            <description>fix:部分仓库无法添加问题feat:批量常见MR通过勾选组件的方式</description>
             <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/2.0.6/Ezreal.zip" length="3789762" type="application/octet-stream" sparkle:edSignature="ocdzPAjszH3arpisgMCdcHlF7jLtEzvlqiwMJoda7AYWdltKNy5Y2YrOjMvCt0g0JvdrMQLK1lyrS5ZHmqmRDQ=="/>
         </item>
         <item>
