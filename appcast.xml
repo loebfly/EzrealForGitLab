@@ -9,76 +9,10 @@
             <sparkle:shortVersionString>2.0.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
             <description>
-                fix:部分仓库搜索不到的问题，feat:批量MR创建通过组件勾选的方式
+                fix:部分仓库搜索不到的问题
+                feat:批量MR创建通过组件勾选的方式
             </description>
             <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/2.0.6/Ezreal.zip" length="3789769" type="application/octet-stream" sparkle:edSignature="0kd4Z1gO1CJffEsoUqVcm+1Urq3hmMqLfyNsLajCKMybnE8ld762eEF/9afcylo3eUU3gQhBSMDEOzL6kKfOAQ=="/>
-        </item>
-        <item>
-            <title>2.0.5</title>
-            <pubDate>Thu, 24 Oct 2024 13:41:58 +0800</pubDate>
-            <sparkle:version>36</sparkle:version>
-            <sparkle:shortVersionString>2.0.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <description>
-                feat: 单个合并请求完成后发送飞书通知群组变更
-            </description>
-            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/2.0.5/Ezreal.zip" length="3775151" type="application/octet-stream" sparkle:edSignature="mKgHB8VUBCDWKCKLSA6ykhoPtv75Fhr31l1Bkc2+KjIxY3ZQzZgy0fAYb03aw5+lXAPrJVS4cy9npc3wSf+XCA=="/>
-        </item>
-        <item>
-            <title>2.0.4</title>
-            <pubDate>Mon, 30 Sep 2024 15:42:42 +0800</pubDate>
-            <sparkle:version>35</sparkle:version>
-            <sparkle:shortVersionString>2.0.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <description>
-                feat: 单个合并请求完成后发送飞书通知
-            </description>
-            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/2.0.4/Ezreal.zip" length="3763334" type="application/octet-stream" sparkle:edSignature="7npQc/hejB84Vm2RZRH4IFPIYvFja+tPbh3sySp8hCeyQpiog5nwjEeyLNH9P63szE3jghfoxfZ3XCufx1BCDQ=="/>
-        </item>
-        <item>
-            <title>2.0.3</title>
-            <pubDate>Mon, 19 Aug 2024 15:58:24 +0800</pubDate>
-            <sparkle:version>34</sparkle:version>
-            <sparkle:shortVersionString>2.0.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <description>
-                fix: 流水线构建参数有部分无法手动输入的问题
-            </description>
-            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/2.0.3/Ezreal.zip" length="3756575" type="application/octet-stream" sparkle:edSignature="iZZgqmSgva0BWs4ZlHTz8ouDo8zV/Bwk+2txu0Mtsjl/zUQBq5go5vVltFIiGZeCzQ8tjvQbsRniyBERkiuKDg=="/>
-        </item>
-        <item>
-            <title>2.0.2</title>
-            <pubDate>Fri, 16 Aug 2024 13:49:22 +0800</pubDate>
-            <sparkle:version>33</sparkle:version>
-            <sparkle:shortVersionString>2.0.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <description>
-                fix: MODULARIZATION_GIT的建议的版本号不是最新的问题
-            </description>
-            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/2.0.2/Ezreal.zip" length="3756692" type="application/octet-stream" sparkle:edSignature="YvqGEqHd9SUqER+Y/At6mWfFTR9cnF/xYkIxJpZ3dawNzmQdQW8GRPvDCf+Ehcb+giTPAlY+ldp6WMcwZykkAA=="/>
-        </item>
-        <item>
-            <title>2.0.1</title>
-            <pubDate>Thu, 08 Aug 2024 15:25:25 +0800</pubDate>
-            <sparkle:version>31</sparkle:version>
-            <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <description>
-                feat: 创建MR的标题新增【Ezreal】前缀
-                fix: MODULARIZATION_GIT的可选值显示不全的问题
-            </description>
-            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/2.0.1/Ezreal.zip" length="3755485" type="application/octet-stream" sparkle:edSignature="Uruun4q+qzkV19FyKzcP8K3BaDCozXqQ5ks3hKUv8kmykqqtjXyGGB2dMI8QvOZBlGEh0KP+gJCcBIo0e6XXBg=="/>
-        </item>
-        <item>
-            <title>2.0.0</title>
-            <pubDate>Fri, 21 Jun 2024 11:31:15 +0800</pubDate>
-            <sparkle:version>30</sparkle:version>
-            <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <description>
-                fix: 合并请求批量合并功能未显示问题
-            </description>
-            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/2.0.0/Ezreal.zip" length="3754609" type="application/octet-stream" sparkle:edSignature="3nhqGb28OyUlGbHPyCpi25AmTtO+Ix+R1Jd1HWp4BWMcVsjrZbxmUrRsUKdVHTybVXJhEnVr5bgATA4TUc2hBQ=="/>
         </item>
     </channel>
 </rss>
