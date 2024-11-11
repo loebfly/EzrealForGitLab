@@ -4,14 +4,14 @@
         <title>Ezreal For GitLab</title>
         <item>
             <title>2.0.6</title>
-            <pubDate>Mon, 11 Nov 2024 11:10:13 +0800</pubDate>
+            <pubDate>Mon, 11 Nov 2024 11:31:46 +0800</pubDate>
             <sparkle:version>37</sparkle:version>
             <sparkle:shortVersionString>2.0.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
             <description>
-                fix:部分仓库无法添加问题feat:批量常见MR通过勾选组件的方式
+                fix:部分仓库搜索不到的问题，feat:批量MR创建通过组件勾选的方式
             </description>
-            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/2.0.6/Ezreal.zip" length="3789762" type="application/octet-stream" sparkle:edSignature="ocdzPAjszH3arpisgMCdcHlF7jLtEzvlqiwMJoda7AYWdltKNy5Y2YrOjMvCt0g0JvdrMQLK1lyrS5ZHmqmRDQ=="/>
+            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/2.0.6/Ezreal.zip" length="3789769" type="application/octet-stream" sparkle:edSignature="0kd4Z1gO1CJffEsoUqVcm+1Urq3hmMqLfyNsLajCKMybnE8ld762eEF/9afcylo3eUU3gQhBSMDEOzL6kKfOAQ=="/>
         </item>
         <item>
             <title>2.0.5</title>
