@@ -3,6 +3,17 @@
     <channel>
         <title>Ezreal For GitLab</title>
         <item>
+            <title>2.0.9</title>
+            <pubDate>Mon, 23 Dec 2024 19:54:46 +0800</pubDate>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>2.0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <description>
+                合并请求自动创建release分支使用owner的token
+            </description>
+            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/2.0.9/Ezreal.zip"  length="3812409" type="application/octet-stream" sparkle:edSignature="TFe5QB9HlACH51z0mJkwJJeBLeEZO2zPSuTluBOcNU8NZgVZt8NsBJflmNCEjJTUBzuWxAbHA9+9yF9yRl5kDg=="/>
+        </item>
+        <item>
             <title>2.0.8</title>
             <pubDate>Tue, 17 Dec 2024 09:42:15 +0800</pubDate>
             <sparkle:version>39</sparkle:version>
