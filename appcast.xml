@@ -7,7 +7,8 @@
             <pubDate>Fri, 07 Mar 2025 15:31:09 +0800</pubDate>
             <sparkle:version>41</sparkle:version>
             <sparkle:shortVersionString>2.0.10</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion><description>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <description>
                 合并请求适配SPM
             </description>
             <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/2.0.10/Ezreal.zip" length="3728432" type="application/octet-stream" sparkle:edSignature="5gN4q1TVPuHAVLwkCc8+Y3G/m2nHuGELAzA2CgNBVHEpyuq5IgjqlXIHOCwoxE3YXU9VtpyCsj85lFGd6EsaCA=="/>
