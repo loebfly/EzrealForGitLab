@@ -3,6 +3,17 @@
     <channel>
         <title>Ezreal For GitLab</title>
         <item>
+            <title>2.0.11</title>
+            <pubDate>Sun, 16 Mar 2025 14:03:12 +0800</pubDate>
+            <sparkle:version>42</sparkle:version>
+            <sparkle:shortVersionString>2.0.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <description>
+                fix: spm.yml 解析失败问题
+            </description>
+            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/2.0.11/Ezreal.zip" length="3645783" type="application/octet-stream" sparkle:edSignature="edCKsjBN6ktcoJhOeQhvVY3J7SEZDljkJnryhSiruMaTYW4tZGuXTHIFINqkii5HwamuskZaucvtboGiBLeOAA=="/>
+        </item>
+        <item>
             <title>2.0.10</title>
             <pubDate>Fri, 07 Mar 2025 15:31:09 +0800</pubDate>
             <sparkle:version>41</sparkle:version>
