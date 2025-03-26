@@ -3,6 +3,17 @@
     <channel>
         <title>Ezreal For GitLab</title>
         <item>
+            <title>2.0.12</title>
+            <pubDate>Wed, 26 Mar 2025 15:41:46 +0800</pubDate>
+            <sparkle:version>43</sparkle:version>
+            <sparkle:shortVersionString>2.0.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <description>
+                feat: 适配G派的spm分支
+            </description>
+            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/2.0.12/Ezreal.zip" length="3729068" type="application/octet-stream" sparkle:edSignature="ARQVyhyWdgVaGKkwOHG6cxq7z/4q0iva63Q5If4RFPKrGYT3veudFFvG47zkYZi3bUsih+sbjrvQ3yKFG00lCg=="/>
+        </item>
+        <item>
             <title>2.0.11</title>
             <pubDate>Sun, 16 Mar 2025 14:03:12 +0800</pubDate>
             <sparkle:version>42</sparkle:version>
