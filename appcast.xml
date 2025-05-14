@@ -12,7 +12,7 @@
                 fix: 项目添加删除未及时刷新问题
                 feat: 自动创建or基于业务线develop分支
             </description>
-            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/2.0.13/Ezreal.zip" length="3745285" type="application/octet-stream" sparkle:edSignature="DmzoSvVg/7Rk7pAwfI/nn+eOoae4Ouf6OspDzfy5zfxjZlzsDwDvz6M/POXtuHDSIjvUl2jRFalKiW60VbLVBA=="/>
+            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/2.0.14/Ezreal.zip" length="3745285" type="application/octet-stream" sparkle:edSignature="DmzoSvVg/7Rk7pAwfI/nn+eOoae4Ouf6OspDzfy5zfxjZlzsDwDvz6M/POXtuHDSIjvUl2jRFalKiW60VbLVBA=="/>
         </item>
          <item>
             <title>2.0.13</title>
