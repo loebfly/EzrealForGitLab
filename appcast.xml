@@ -3,6 +3,17 @@
     <channel>
         <title>Ezreal For GitLab</title>
         <item>
+            <title>2.0.17</title>
+            <pubDate>Fri, 13 Jun 2025 22:54:19 +0800</pubDate>
+            <sparkle:version>48</sparkle:version>
+            <sparkle:shortVersionString>2.0.17</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <description>
+                upgrade: 创建标签功能
+            </description>
+            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/2.0.17/Ezreal.zip" length="3923286" type="application/octet-stream" sparkle:edSignature="q9B1J3Xpp/wzCeNIZYTP5icDGldWGnohxxLflZt87esF2hSPDpI3/PFKyPLXOP1P58ML1xB/vI2jmqOolUUVBg=="/>
+        </item>
+        <item>
             <title>2.0.16</title>
             <pubDate>Tue, 10 Jun 2025 19:08:49 +0800</pubDate>
             <sparkle:version>47</sparkle:version>
