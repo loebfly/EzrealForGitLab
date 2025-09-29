@@ -3,6 +3,17 @@
     <channel>
         <title>Ezreal For GitLab</title>
         <item>
+            <title>2.0.21</title>
+            <pubDate>Mon, 29 Sep 2025 17:58:24 +0800</pubDate>
+            <sparkle:version>52</sparkle:version>
+            <sparkle:shortVersionString>2.0.21</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <description>
+                feat: 新增集成配置模块，可通过MR生成branch.yml
+            </description>
+            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/2.0.21/Ezreal.zip" length="3875588" type="application/octet-stream" sparkle:edSignature="Y9vNJYBKichMgMBEVMA67JV/PgOF3UZQiMOV8GT42UqOFbIbvAkvXrl2A6GVmEfZPxzTEQGhuNaC9nsX5MV1BQ=="/>
+        </item>
+        <item>
             <title>2.0.20</title>
             <pubDate>Thu, 11 Sep 2025 15:51:25 +0800</pubDate>
             <sparkle:version>51</sparkle:version>
