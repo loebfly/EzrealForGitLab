@@ -3,6 +3,17 @@
     <channel>
         <title>Ezreal For GitLab</title>
         <item>
+            <title>2.0.22</title>
+            <pubDate>Mon, 13 Oct 2025 17:41:13 +0800</pubDate>
+            <sparkle:version>54</sparkle:version>
+            <sparkle:shortVersionString>2.0.22</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <description>
+                feat: 一键转化最新Tag到spm.yml
+            </description>
+            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/2.0.22/Ezreal.zip" length="3967316" type="application/octet-stream" sparkle:edSignature="pAGtHnmd3NjvpuUjkmELsScEHFz6deAsUW3h16RNNCdDIAnki+aokUI5MUiw2S0o7UdnsNW5sUaOzB+FEU6fDg=="/>
+        </item>
+        <item>
             <title>2.0.21</title>
             <pubDate>Mon, 29 Sep 2025 17:58:24 +0800</pubDate>
             <sparkle:version>52</sparkle:version>
