@@ -3,6 +3,17 @@
     <channel>
         <title>Ezreal For GitLab</title>
         <item>
+            <title>2.0.25</title>
+            <pubDate>Wed, 10 Dec 2025 18:07:08 +0800</pubDate>
+            <sparkle:version>57</sparkle:version>
+            <sparkle:shortVersionString>2.0.25</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <description>
+                feat: 合并请求来源为组件分支+壳子分支
+            </description>
+            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/2.0.25/Ezreal.zip" length="4015512" type="application/octet-stream" sparkle:edSignature="jNSI+85VA0sDZs4b0T7/yLtlcbZve3PutMFHRSosYwie6VguKBoEhbf4wEKX/7QSVRhMQSEEIEKjsnf0ncOuAQ=="/>
+        </item>
+        <item>
             <title>2.0.24</title>
             <pubDate>Wed, 10 Dec 2025 15:55:43 +0800</pubDate>
             <sparkle:version>56</sparkle:version>
