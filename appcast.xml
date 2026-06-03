@@ -3,6 +3,17 @@
     <channel>
         <title>Ezreal For GitLab</title>
         <item>
+            <title>3.0.1</title>
+            <pubDate>Wed, 03 Jun 2026 17:49:43 +0800</pubDate>
+            <sparkle:version>60</sparkle:version>
+            <sparkle:shortVersionString>3.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <description>
+                版本需求一站式集成进阶版-联动飞书
+            </description>
+            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/3.0.1/Ezreal.zip" length="4853664" type="application/octet-stream" sparkle:edSignature="d093u3EkYXpK43ver6kxaIZkkQuBRmfwTNdN6uy2bYAklzbrTi4ab32ScmHcTfD3IJ239wytw/vAybrzUDT/Cg=="/>
+        </item>
+        <item>
             <title>3.0.0</title>
             <pubDate>Tue, 02 Jun 2026 15:37:58 +0800</pubDate>
             <sparkle:version>59</sparkle:version>
