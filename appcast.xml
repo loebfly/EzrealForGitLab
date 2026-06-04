@@ -9,11 +9,11 @@
             <sparkle:shortVersionString>3.0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
             <description>
-• 批量发起/批准集成 MR 支持按组件勾选
-• 壳子 MR branch.yml 冲突支持预览并覆盖解决
-• 飞书需求列表按开发人员(合)分组展示
-• 飞书集成通知展示集成中需求，构建链接预填集成分支
-• 修复版本信息 Tag 高亮误匹配
+                • 批量发起/批准集成 MR 支持按组件勾选
+                • 壳子 MR branch.yml 冲突支持预览并覆盖解决
+                • 飞书需求列表按开发人员(合)分组展示
+                • 飞书集成通知展示集成中需求，构建链接预填集成分支
+                • 修复版本信息 Tag 高亮误匹配
             </description>
             <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/3.0.3/Ezreal.zip" length="5033136" type="application/octet-stream" sparkle:edSignature="WMagfcwy7ZubQpMHhib1NxvXvjPvWNfINNcSI9yEbOCwA+O+ueZhxbvdYRRuiFrjDlVM1Q5NYamoMIsV2zesDg=="/>
         </item>
