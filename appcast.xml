@@ -3,6 +3,18 @@
     <channel>
         <title>Ezreal For GitLab</title>
         <item>
+            <title>3.0.6</title>
+            <pubDate>Wed, 10 Jun 2026 16:01:37 +0800</pubDate>
+            <sparkle:version>65</sparkle:version>
+            <sparkle:shortVersionString>3.0.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <description>
+                • 瘦身+请求优化
+                • fix 空提交branch/spm.yml
+            </description>
+            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/3.0.6/Ezreal.zip" length="4546928" type="application/octet-stream" sparkle:edSignature="fnrEn4Ag3iLy4q3yGzMUOwhjJXFA38Qx8/x+iBdMemsXHY1z3XGqpvaTA9MqwO7kJ0vlv6R+Qm9O8XAbpYDsDg=="/>
+        </item>
+        <item>
             <title>3.0.5</title>
             <pubDate>Wed, 10 Jun 2026 14:08:30 +0800</pubDate>
             <sparkle:version>64</sparkle:version>
