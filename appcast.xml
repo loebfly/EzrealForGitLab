@@ -2,6 +2,17 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Ezreal For GitLab</title>
+                <item>
+            <title>3.0.8</title>
+            <pubDate>Fri, 12 Jun 2026 17:29:26 +0800</pubDate>
+            <sparkle:version>67</sparkle:version>
+            <sparkle:shortVersionString>3.0.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <description>
+                • 测试更新问题
+            </description>
+            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/3.0.8/Ezreal.zip" length="4911772" type="application/octet-stream" sparkle:edSignature="AXWQ8ZS2u0xZ8lBjQw4RDZkWdmZOS1Vgz+p19Hxjx87op9S0rml3iNSFC/GKxI9Gx010Al66gjSUsSpcgRFbAA=="/>
+        </item>
         <item>
             <title>3.0.7</title>
             <pubDate>Fri, 12 Jun 2026 17:04:13 +0800</pubDate>
