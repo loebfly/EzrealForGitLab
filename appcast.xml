@@ -9,7 +9,7 @@
             <sparkle:shortVersionString>3.0.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
             <description>
-                • 壳子&组件发起请求新增预览
+                • 壳子和组件发起请求新增预览
                 • 通知构建功能拆分通知和更新
             </description>
             <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/3.0.9/Ezreal.zip" length="4974207" type="application/octet-stream" sparkle:edSignature="YyOYjf7r1l91+GlZx09MSw6pIWT5t7dH6C6wJNLHSv1IAGb5wyHdUaXvuqa/AYNxxM2zOSPtrv2eM32PI19OCw=="/>
