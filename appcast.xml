@@ -3,6 +3,19 @@
     <channel>
         <title>Ezreal For GitLab</title>
         <item>
+            <title>3.0.10</title>
+            <pubDate>Thu, 25 Jun 2026 10:48:22 +0800</pubDate>
+            <sparkle:version>69</sparkle:version>
+            <sparkle:shortVersionString>3.0.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <description>
+                • 壳子和组件发起请求新增预览\n
+                • 通知构建功能拆分通知和更新\n
+                • 新增总览Tab, 了解集成进度
+            </description>
+            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/3.0.10/Ezreal.zip" length="5042323" type="application/octet-stream" sparkle:edSignature="nSLRXYwtm5Njav0i3ouq2V7ZA0cE9PMMWnwbAZuGh+ons9dES+SGOA68KXq+fXptQnQLLeNMViswbLY2oBDEAw=="/>
+        </item>
+        <item>
             <title>3.0.9</title>
             <pubDate>Wed, 24 Jun 2026 15:47:58 +0800</pubDate>
             <sparkle:version>68</sparkle:version>
