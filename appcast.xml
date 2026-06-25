@@ -3,85 +3,17 @@
     <channel>
         <title>Ezreal For GitLab</title>
         <item>
-            <title>3.0.10</title>
-            <pubDate>Thu, 25 Jun 2026 10:48:22 +0800</pubDate>
-            <sparkle:version>69</sparkle:version>
-            <sparkle:shortVersionString>3.0.10</sparkle:shortVersionString>
+            <title>3.0.11</title>
+            <pubDate>Thu, 25 Jun 2026 11:46:40 +0800</pubDate>
+            <sparkle:version>70</sparkle:version>
+            <sparkle:shortVersionString>3.0.11</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
             <description>
                 • 壳子和组件发起请求新增预览\n
                 • 通知构建功能拆分通知和更新\n
                 • 新增总览Tab, 了解集成进度
             </description>
-            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/3.0.10/Ezreal.zip" length="5042323" type="application/octet-stream" sparkle:edSignature="nSLRXYwtm5Njav0i3ouq2V7ZA0cE9PMMWnwbAZuGh+ons9dES+SGOA68KXq+fXptQnQLLeNMViswbLY2oBDEAw=="/>
-        </item>
-        <item>
-            <title>3.0.9</title>
-            <pubDate>Wed, 24 Jun 2026 15:47:58 +0800</pubDate>
-            <sparkle:version>68</sparkle:version>
-            <sparkle:shortVersionString>3.0.9</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <description>
-                • 壳子和组件发起请求新增预览
-                • 通知构建功能拆分通知和更新
-            </description>
-            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/3.0.9/Ezreal.zip" length="4974207" type="application/octet-stream" sparkle:edSignature="YyOYjf7r1l91+GlZx09MSw6pIWT5t7dH6C6wJNLHSv1IAGb5wyHdUaXvuqa/AYNxxM2zOSPtrv2eM32PI19OCw=="/>
-        </item>
-        <item>
-            <title>3.0.8</title>
-            <pubDate>Fri, 12 Jun 2026 17:29:26 +0800</pubDate>
-            <sparkle:version>67</sparkle:version>
-            <sparkle:shortVersionString>3.0.8</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <description>
-                • 测试更新问题
-            </description>
-            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/3.0.8/Ezreal.zip" length="4911772" type="application/octet-stream" sparkle:edSignature="AXWQ8ZS2u0xZ8lBjQw4RDZkWdmZOS1Vgz+p19Hxjx87op9S0rml3iNSFC/GKxI9Gx010Al66gjSUsSpcgRFbAA=="/>
-        </item>
-        <item>
-            <title>3.0.7</title>
-            <pubDate>Fri, 12 Jun 2026 17:04:13 +0800</pubDate>
-            <sparkle:version>66</sparkle:version>
-            <sparkle:shortVersionString>3.0.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <description>
-                • 组件包管理
-            </description>
-            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/3.0.7/Ezreal.zip" length="4911790" type="application/octet-stream" sparkle:edSignature="KEHkeJ7U0Ydecqskf1DrlIBKnNi4UEDjjLyp3pSZHWefxRxVfTzgR7sR5ML28RMI5WvNnGM3IitDIcZoiojlAA=="/>
-        </item>
-        <item>
-            <title>3.0.6</title>
-            <pubDate>Wed, 10 Jun 2026 16:01:37 +0800</pubDate>
-            <sparkle:version>65</sparkle:version>
-            <sparkle:shortVersionString>3.0.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <description>
-                • 瘦身+请求优化
-                • fix 空提交branch/spm.yml
-            </description>
-            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/3.0.6/Ezreal.zip" length="4546928" type="application/octet-stream" sparkle:edSignature="fnrEn4Ag3iLy4q3yGzMUOwhjJXFA38Qx8/x+iBdMemsXHY1z3XGqpvaTA9MqwO7kJ0vlv6R+Qm9O8XAbpYDsDg=="/>
-        </item>
-        <item>
-            <title>3.0.5</title>
-            <pubDate>Wed, 10 Jun 2026 14:08:30 +0800</pubDate>
-            <sparkle:version>64</sparkle:version>
-            <sparkle:shortVersionString>3.0.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <description>
-                • 瘦身+请求优化
-            </description>
-            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/3.0.5/Ezreal.zip" length="4545916" type="application/octet-stream" sparkle:edSignature="nqi/LRUAI3ktR5ONzLwcQI09JrPQkLo6kmbhUF3PsB7dogQyX8POv6hbWmtIRETKpXhRhZB3x6jqlGbtpkrFCQ=="/>
-        </item>
-        <item>
-            <title>3.0.4</title>
-            <pubDate>Fri, 05 Jun 2026 10:06:34 +0800</pubDate>
-            <sparkle:version>63</sparkle:version>
-            <sparkle:shortVersionString>3.0.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <description>
-                • 通知构建消息@集成测试人
-            </description>
-            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/3.0.4/Ezreal.zip" length="5041263" type="application/octet-stream" sparkle:edSignature="/iER7OC9W5OPXDWQAe1wetE13igqwZdCqg453/0TZTHpjMyhsiFr4hZ5PoRi0EF3O7qc1c1kSoLRcNulYi5zDw=="/>
+            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/3.0.11/Ezreal.zip" length="5042078" type="application/octet-stream" sparkle:edSignature="mZjsLu5f/5N2KZ5B+eFYZBB0WOfXCL9H11++ihwn4sncpWYS6MrgNx2/V+uyEj5Su/2RLPsUWowdUYthC/kfCQ=="/>
         </item>
     </channel>
 </rss>
