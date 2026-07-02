@@ -8,11 +8,13 @@
             <sparkle:version>71</sparkle:version>
             <sparkle:shortVersionString>3.0.12</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <description>
-                • Update integration overview progress from Feishu MRs\n
-                • 优化集成管理刷新入口\n
-                • 限制非法需求分支添加\n
-            </description>
+            <description><![CDATA[
+        <ul>
+          <li>Update integration overview progress from Feishu MRs</li>
+          <li>优化集成管理刷新入口</li>
+          <li>限制非法需求分支添加</li>
+        </ul>
+      ]]></description>
             <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/3.0.12/Ezreal.zip" length="5073111" type="application/octet-stream" sparkle:edSignature="NWEBe1g5obXi0dbkNntFDlPgk9u4RI3x1eIFJ7PZ7Zc/lGuzrwz06hZi+qh/KBrOjZJpb21FXgak0hDCBVYECA=="/>
         </item>
     </channel>
