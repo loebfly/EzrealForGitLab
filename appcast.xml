@@ -3,19 +3,24 @@
     <channel>
         <title>Ezreal For GitLab</title>
         <item>
-            <title>3.0.12</title>
-            <pubDate>Thu, 02 Jul 2026 18:41:33 +0800</pubDate>
-            <sparkle:version>71</sparkle:version>
-            <sparkle:shortVersionString>3.0.12</sparkle:shortVersionString>
+            <title>3.0.13</title>
+            <pubDate>Fri, 03 Jul 2026 17:56:11 +0800</pubDate>
+            <sparkle:version>72</sparkle:version>
+            <sparkle:shortVersionString>3.0.13</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
             <description><![CDATA[
         <ul>
-          <li>Update integration overview progress from Feishu MRs</li>
-          <li>优化集成管理刷新入口</li>
-          <li>限制非法需求分支添加</li>
+          <li>优化集成管理界面</li>
+          <li>优化集成管理工具栏</li>
+          <li>优化对话框和侧边栏界面</li>
+          <li>优化应用外壳设计与顶部标题</li>
+          <li>优化需求管理浮层</li>
+          <li>更新应用图标</li>
+          <li>调整默认窗口尺寸</li>
+          <li>组件 MR 待处理时禁用 branch.yml 冲突处理</li>
         </ul>
       ]]></description>
-            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/3.0.12/Ezreal.zip" length="5073111" type="application/octet-stream" sparkle:edSignature="NWEBe1g5obXi0dbkNntFDlPgk9u4RI3x1eIFJ7PZ7Zc/lGuzrwz06hZi+qh/KBrOjZJpb21FXgak0hDCBVYECA=="/>
+            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/3.0.13/Ezreal.zip" length="7306100" type="application/octet-stream" sparkle:edSignature="X0FpLL6YsC1Sbut5/08vYpJSy8iv0GRwrRV9Bp/8UYlbjtyO/EooTBeTr442PRbR1lx93yjKkXhwUAxXwPrZAg=="/>
         </item>
     </channel>
 </rss>
