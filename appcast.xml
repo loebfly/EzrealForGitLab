@@ -3,24 +3,19 @@
     <channel>
         <title>Ezreal For GitLab</title>
         <item>
-            <title>3.0.13</title>
-            <pubDate>Fri, 03 Jul 2026 17:56:11 +0800</pubDate>
-            <sparkle:version>72</sparkle:version>
-            <sparkle:shortVersionString>3.0.13</sparkle:shortVersionString>
+            <title>3.0.14</title>
+            <pubDate>Mon, 06 Jul 2026 11:44:37 +0800</pubDate>
+            <sparkle:version>73</sparkle:version>
+            <sparkle:shortVersionString>3.0.14</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
             <description><![CDATA[
         <ul>
-          <li>优化集成管理界面</li>
-          <li>优化集成管理工具栏</li>
-          <li>优化对话框和侧边栏界面</li>
-          <li>优化应用外壳设计与顶部标题</li>
-          <li>优化需求管理浮层</li>
-          <li>更新应用图标</li>
-          <li>调整默认窗口尺寸</li>
-          <li>组件 MR 待处理时禁用 branch.yml 冲突处理</li>
+          <li>保持业务页面切换状态</li>
+          <li>Refactor auth views</li>
+          <li>Refactor settings panel and cache cleanup</li>
         </ul>
       ]]></description>
-            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/3.0.13/Ezreal.zip" length="7306100" type="application/octet-stream" sparkle:edSignature="X0FpLL6YsC1Sbut5/08vYpJSy8iv0GRwrRV9Bp/8UYlbjtyO/EooTBeTr442PRbR1lx93yjKkXhwUAxXwPrZAg=="/>
+            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/3.0.14/Ezreal.zip" length="7394086" type="application/octet-stream" sparkle:edSignature="Tk8OH7YdZn6MLCEvipjNojRHilFu7nBRhz1gRIEwh19DlNJX4rYuTU7gGSqGdFeO38VIjwNbd39JgZTI6JlQAQ=="/>
         </item>
     </channel>
 </rss>
