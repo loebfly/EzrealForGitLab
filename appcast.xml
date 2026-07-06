@@ -4,18 +4,18 @@
         <title>Ezreal For GitLab</title>
         <item>
             <title>3.0.14</title>
-            <pubDate>Mon, 06 Jul 2026 11:44:37 +0800</pubDate>
+            <pubDate>Mon, 06 Jul 2026 11:45:28 +0800</pubDate>
             <sparkle:version>73</sparkle:version>
             <sparkle:shortVersionString>3.0.14</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
             <description><![CDATA[
         <ul>
-          <li>保持业务页面切换状态</li>
-          <li>Refactor auth views</li>
-          <li>Refactor settings panel and cache cleanup</li>
+          <li>保持业务页面切换状态，返回仓库业务页时保留当前上下文。</li>
+          <li>重构登录鉴权页面结构，拆分登录主视图与工作区选择视图，降低页面耦合。</li>
+          <li>优化设置面板与缓存清理能力，补充上传结果缓存与项目需求状态清理。</li>
         </ul>
       ]]></description>
-            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/3.0.14/Ezreal.zip" length="7394086" type="application/octet-stream" sparkle:edSignature="Tk8OH7YdZn6MLCEvipjNojRHilFu7nBRhz1gRIEwh19DlNJX4rYuTU7gGSqGdFeO38VIjwNbd39JgZTI6JlQAQ=="/>
+            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/3.0.14/Ezreal.zip" length="7394086" type="application/octet-stream" sparkle:edSignature="+1LTwtTBI7WJOnsP32hW93aPrk36R/2pQqfV97BoaAxjTfMkzyC7q10txp3zc7RNzOJQ0qXQNm1/HjtGoD7PBw=="/>
         </item>
     </channel>
 </rss>
