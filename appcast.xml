@@ -3,18 +3,18 @@
     <channel>
         <title>Ezreal For GitLab</title>
         <item>
-            <title>3.0.15</title>
-            <pubDate>Wed, 08 Jul 2026 11:48:57 +0800</pubDate>
-            <sparkle:version>74</sparkle:version>
-            <sparkle:shortVersionString>3.0.15</sparkle:shortVersionString>
+            <title>3.0.16</title>
+            <pubDate>Wed, 08 Jul 2026 13:59:54 +0800</pubDate>
+            <sparkle:version>75</sparkle:version>
+            <sparkle:shortVersionString>3.0.16</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
             <description><![CDATA[
         <ul>
-          <li>新增评审功能，一站式CodeReview</li>
-          <li>其他细节优化，提升需求集成便捷度</li>
+          <li>新增 MR Diff 语法高亮，提升 CodeReview 阅读体验</li>
+          <li>优化 MR Diff 行背景展示，提升差异视图一致性</li>
         </ul>
       ]]></description>
-            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/3.0.15/Ezreal.zip" length="7771365" type="application/octet-stream" sparkle:edSignature="aLv+ODs5EJ5RNmK4hZ9hIdn78IET/GNTVWJeO/+czAe8u5CrQ93GSOWCbuzXGkOJ5L23TWtVc5sjgfeVYgwgDQ=="/>
+            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/3.0.16/Ezreal.zip" length="7779433" type="application/octet-stream" sparkle:edSignature="OBlTW8slr82LBOfVBAGQ4ddcQtdWzQleivFZdtUC50DcfQqZxVbZ6Pd5Sg2qW5CJ5UuFmNzNvVKRVBlqLEQBAw=="/>
         </item>
     </channel>
 </rss>
