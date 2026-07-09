@@ -3,18 +3,20 @@
     <channel>
         <title>Ezreal For GitLab</title>
         <item>
-            <title>3.0.17</title>
-            <pubDate>Wed, 08 Jul 2026 17:17:08 +0800</pubDate>
-            <sparkle:version>76</sparkle:version>
-            <sparkle:shortVersionString>3.0.17</sparkle:shortVersionString>
+            <title>3.0.18</title>
+            <pubDate>Thu, 09 Jul 2026 15:49:57 +0800</pubDate>
+            <sparkle:version>77</sparkle:version>
+            <sparkle:shortVersionString>3.0.18</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
             <description><![CDATA[
         <ul>
-          <li>优化设置页和应用菜单</li>
-          <li>添加帮助使用手册</li>
+          <li>优化集成请求页面加载速度</li>
+          <li>新增需求集成进度状态标识</li>
+          <li>简化集成管理页面操作入口</li>
+          <li>结构性优化和已知问题修复</li>
         </ul>
       ]]></description>
-            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/3.0.17/Ezreal.zip" length="7829540" type="application/octet-stream" sparkle:edSignature="pDRRh1zoTIwWpYXevFlyZifCCo+V9UnA0wYdesmY9PGQAD+5OIXc5i6P93KGk9gdJgiq76H+IgIrP9zcm/hdBg=="/>
+            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/3.0.18/Ezreal.zip" length="7863290" type="application/octet-stream" sparkle:edSignature="OYk1I+3P+aHw/iw/9uvsG0h2xWPtpGx4cNlEtR5lrtplF27xmo10RgzEgmjOPXmLXK4ak+tPF1EsEn7P5dtpDg=="/>
         </item>
     </channel>
 </rss>
