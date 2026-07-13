@@ -3,17 +3,18 @@
     <channel>
         <title>Ezreal For GitLab</title>
         <item>
-            <title>3.0.20</title>
-            <pubDate>Mon, 13 Jul 2026 10:52:24 +0800</pubDate>
-            <sparkle:version>79</sparkle:version>
-            <sparkle:shortVersionString>3.0.20</sparkle:shortVersionString>
+            <title>3.0.21</title>
+            <pubDate>Mon, 13 Jul 2026 16:01:05 +0800</pubDate>
+            <sparkle:version>80</sparkle:version>
+            <sparkle:shortVersionString>3.0.21</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
             <description><![CDATA[
         <ul>
-          <li>修复已知问题</li>
+          <li>多行评论显示优化</li>
+          <li>解决部分多行评论失败问题</li>
         </ul>
       ]]></description>
-            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/3.0.20/Ezreal.zip" length="7898856" type="application/octet-stream" sparkle:edSignature="F6IhdnyqGeKPiCJyKyx7JiaAE+YTUV4VnySrYjdwTfUzPzEZe0A8nFjpGCnNhafRV6HVEKRVx1a8tQC9lb7wDw=="/>
+            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/3.0.21/Ezreal.zip" length="7913712" type="application/octet-stream" sparkle:edSignature="JDWyRg/BDfUzwOUYHjx7J3jVJE2QElKS0x0+hkrSS4IVS6H4S2b+QnC5L1rjpsOspFgGERaLFgIl5S8Jt0NnDQ=="/>
         </item>
     </channel>
 </rss>
