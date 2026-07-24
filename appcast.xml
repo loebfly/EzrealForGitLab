@@ -3,19 +3,17 @@
     <channel>
         <title>Ezreal For GitLab</title>
         <item>
-            <title>3.0.23</title>
-            <pubDate>Tue, 14 Jul 2026 15:54:41 +0800</pubDate>
-            <sparkle:version>82</sparkle:version>
-            <sparkle:shortVersionString>3.0.23</sparkle:shortVersionString>
+            <title>3.0.24</title>
+            <pubDate>Fri, 24 Jul 2026 11:40:05 +0800</pubDate>
+            <sparkle:version>83</sparkle:version>
+            <sparkle:shortVersionString>3.0.24</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
             <description><![CDATA[
         <ul>
-          <li>优化折叠 Diff 按文件加载</li>
-          <li>增加评审评论定位与切换</li>
-          <li>评审界面提前显示评论数</li>
+          <li>修复批量发起请求确认后未执行的问题</li>
         </ul>
       ]]></description>
-            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/3.0.23/Ezreal.zip" length="8005987" type="application/octet-stream" sparkle:edSignature="pGlz2r/aTNRO5VUJdROV0YSoz0PQHPACmZ96m7jG7LBYzgUPzpCq6n0RKfgbAPyNXk+M6gPPh1onVc3hxRscAA=="/>
+            <enclosure url="https://github.com/loebfly/EzrealForGitLab/releases/download/3.0.24/Ezreal.zip" length="8006158" type="application/octet-stream" sparkle:edSignature="SO3N+AXE1yQoT6RZQBea8F8yJoZK7iKG5jGhg+t/ia+r+AGpz1ohwNEfPq0WqwqMiOEfz0eNK/a9/2xjqXb8Cw=="/>
         </item>
     </channel>
 </rss>
